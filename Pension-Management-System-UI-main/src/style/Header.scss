@@ -1,0 +1,31 @@
+.header_container {
+    background-color: #232e36;
+    display: flex;
+    width: 100%;
+    .navbar {
+        width: 100%;
+        display: flex !important;
+        .navbar-brand {
+            color: #ffffff;
+            font-size: 22px;
+            font-weight: 600;
+        }
+        .header_right {
+            display: flex !important;
+            justify-content: flex-end !important;
+            align-items: flex-end !important;
+            .login_btn {
+                background-color: #f60d4f;
+                color: #ffffff;
+                outline: none;
+                border: none;
+            }
+            .home{
+                background-color: #232e36;
+                color: #ffffff;
+                outline: none;
+                border: none;
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+POST
+https://localhost:5001/api/Authorization/Login
+Request:
+{
+  "username": "saadshamim",
+  "password": "test@123"
+}
+
+Response:
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NTY0MjE0NzQsImlzcyI6Ijk4NzY1MTIzNCIsImF1ZCI6Ijk4NzY1MTIzNCJ9.ssfIYuZTipMYwxI_NasJvXZn_0MdUXRwWWcLIoQW-I8
+
+POST
+https://localhost:5001/api/Authorization/Registration
+Request:
+{
+  "username": "vishalwaman",
+  "password": "test@123"
+}
+
+Response:
+true
+
+GET
+https://localhost:5002/api/ProcessPension/PensionDetail
+Request:
+https://localhost:5002/api/ProcessPension/PensionDetail?aadhaarNumber=278738717139
+
+Response:
+{
+  "name": "Jesus",
+  "dateOfBirth": "23/04/1984",
+  "pan": "VINFU7854E",
+  "pensionType": 2,
+  "pensionAmount": 109500
+}
+
+POST
+https://localhost:5002/api/ProcessPension/ProcessPension
+Request:
+{
+  "aadhaarNumber": "278738717139",
+  "pensionAmount": 109500,
+  "bankCharge": 500
+}
+
+Response:
+Pension Disbursement Success

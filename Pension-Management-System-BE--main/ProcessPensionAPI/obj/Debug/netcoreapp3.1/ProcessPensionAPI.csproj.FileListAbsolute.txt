@@ -1,0 +1,68 @@
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.csproj.AssemblyReference.cache
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.AssemblyInfoInputs.cache
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.AssemblyInfo.cs
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.csproj.CoreCompileInputs.cache
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\ProcessPensionAPI.exe
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\ProcessPensionAPI.deps.json
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\ProcessPensionAPI.runtimeconfig.json
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\ProcessPensionAPI.runtimeconfig.dev.json
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\ProcessPensionAPI.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\ProcessPensionAPI.pdb
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProcessPensionAPI.StaticWebAssets.Manifest.cache
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.csproj.CopyComplete
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.pdb
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.genruntimeconfig.cache
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Saad Shamim\Desktop\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\ProcessPensionAPI.exe
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\ProcessPensionAPI.deps.json
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\ProcessPensionAPI.runtimeconfig.json
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\ProcessPensionAPI.runtimeconfig.dev.json
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\ProcessPensionAPI.dll
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\ProcessPensionAPI.pdb
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.csproj.AssemblyReference.cache
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.AssemblyInfoInputs.cache
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.AssemblyInfo.cs
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProcessPensionAPI.StaticWebAssets.Manifest.cache
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\staticwebassets\ProcessPensionAPI.StaticWebAssets.xml
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProcessPensionAPI.styles.css
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.RazorTargetAssemblyInfo.cache
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.csproj.CopyComplete
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.dll
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.pdb
+C:\Users\visha\source\repos\YouTube Project\Pension Management System\Penstion Saad\Pension Management System\ProcessPensionAPI\obj\Debug\netcoreapp3.1\ProcessPensionAPI.genruntimeconfig.cache
